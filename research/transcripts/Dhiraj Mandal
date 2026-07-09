@@ -1,65 +1,74 @@
-Market Research Interview Transcript
-
-Group: Group 2
-Student: Dhiraj Mandal
-Role: Documentation & Evidence Lead
-Participant: P04
-Interview Date: 2026-07-07
-
-Transcript
-
-[00:00] Interviewer: Hello. Thank you for taking the time to speak with me today. I am a Ravensbourne University student working with HiveMind on improving workplace onboarding. This interview is for my university project only. With your permission, I would like to record this interview. Your identity will remain anonymous, and only a participant ID will be used. Is that okay?
-
-[00:25] Participant P04: Yes, that's fine. I understand the purpose of the interview and I agree to the recording.
-
-[00:45] Interviewer: Thank you. I'll begin with a few questions about your work experience.
-
-Section A – Role and Company Context
-
-[01:10] Interviewer: What is your current job role?
-
-[01:30] Participant P04: I work as an Operations Supervisor in a distribution company. I have been in this role for nearly five years. My job is to supervise staff, organise daily work, solve operational issues and make sure everything runs smoothly.
-
-[03:00] Interviewer: Which industry does your company work in?
-
-[03:20] Participant P04: The company works in logistics and distribution. We deliver products to different businesses across the UK.
-
-[04:30] Interviewer: Approximately how many employees work in your company?
-
-[04:45] Participant P04: Around 700 employees work in different departments and warehouses.
-
-Section B – Work and Recent Onboarding
-
-[06:00] Interviewer: Think about the last time you started a new job or changed teams. What was your experience during the first few days?
-
-[06:30] Participant P04: My first week was quite stressful. Everyone expected me to learn quickly, but there wasn't a clear plan. I spent a lot of time asking questions because I didn't know where information was stored or who was responsible for different tasks.
-
-[08:40] Interviewer: During the first two weeks, what were the three most important things you needed to know?
-
-[09:00] Participant P04: First, I needed to understand company procedures. Second, I needed to learn how to use the internal software. Third, I needed to know the responsibilities of different team members so I knew who to contact when problems happened.
-
-[11:20] Interviewer: What was the hardest part of getting started?
-
-[11:40] Participant P04: The hardest part was understanding different systems. Every department used different software and there wasn't one place where everything was explained. It took me several weeks before I felt comfortable.
-
-[13:30] Interviewer: Did onboarding feel helpful or did it feel like completing a checklist?
-
-[13:50] Participant P04: Some parts were helpful, especially meeting experienced colleagues. However, many online training modules felt like they were only there to complete mandatory requirements rather than preparing me for my actual work.
-
-Section C – Finding Information at Work
-
-[16:00] Interviewer: When you need an answer at work, where do you usually look first?
-
-[16:20] Participant P04: I normally check Microsoft Teams. If I can't find the information there, I search emails, company documents and finally ask another supervisor.
-
-[18:10] Interviewer: How often do you need to check more than one place?
-
-[18:30] Participant P04: Almost every day. Information is spread across different systems. Sometimes I spend fifteen or twenty minutes searching before finding the latest document.
-
-[20:20] Interviewer: Can you tell me about a time when you couldn't find something important?
-
-[20:45] Participant P04: One day I needed an updated health and safety procedure before starting work in a warehouse area. I found three different versions of the same document. I wasn't sure which one was correct, so I had to wait until the health and safety manager confirmed the latest version.
-
-[22:50] Interviewer: How do you personally keep track of important documents and tasks?
-
-[23:10] Participant P04: I keep a notebook, save useful links in Microsoft Teams and set reminders on my phone. It works, but I still feel everything is spread across too many places.
+Intro & Consent 
+[01:00]Interviewer: Hi, thanks for joining today. I'm a Documentation and Lead working with HiveMind on improving working onboarding and how people find information at work. This isn't a sales call — I'm just learning from your real experience. With your permission, I'd like to record this so I can create a transcript. Your name will be removed and kept anonymous. Is that okay if I record it? 
+[02:00] Participant P01: Yes, absolutely. You can record it. 
+ 
+Short HiveMind Context 
+[03:00] Interviewer: HiveMind is exploring Smart Onboarding — a guided onboarding journey that helps new starters understand what to do next, find information quickly, complete micro-learning, and feel less overwhelmed. I'll ask about your real experience, especially around onboarding, information access, and using AI tools at work. 
+[04:00] Participant P01: Sounds good. I'm happy to share my experience. 
+ 
+Section A — Role & Company Context 
+[05:00] Interviewer: What is your current job role/title? 
+[05:30] Participant P01: I'm currently a Software Engineer. My work focuses on building backend services and integrating AI-driven features into our product. 
+[06:00] Interviewer: If you were between jobs, what was your most recent role? 
+[06:30] Participant P01: I'm employed right now, but previously I worked as a Software Engineer with a focus on conversational AI and enterprise tools. 
+[07:00] Interviewer: What industry is your company in? 
+[07:30] Participant P01: The company operates in the SaaS and enterprise productivity space — building internal tools for large organizations. 
+[08:00] Interviewer: Roughly, how big is the company? 
+[08:30] Participant P01: Around 400 employees globally. 
+ 
+ 
+Section B — Work & Recent Onboarding 
+[09:00] Interviewer: What did the first days or weeks look like? 
+[09:30] Participant P01: My first week was a mix of excitement and confusion. I had access to many tools — Jira, Confluence, GitHub, internal AI dashboards — but no clear sequence of what to do first. I received a lot of documents, but none were prioritized. I spent most of the first week trying to understand the team structure and where information lived. 
+[10:00] Interviewer: Top 3 things you need to know? 
+[10:30] Participant P01: The codebase architecture and how services were documented. The AI capabilities the company already had, so I didn't reinvent anything. Who the decision-makers were for engineering and AI-related features. 
+[11:00] Interviewer: Hardest part of getting started? Why? 
+[11:30] Participant P01: The hardest part was understanding the workflow between engineering, product, and the AI team. Everyone used different tools, and documentation wasn't centralized. I had to ask multiple people to confirm whether something was up to date. 
+[12:00] Interviewer: Did onboarding feel helpful or box ticking? 
+[12:30] Participant P01: It felt like box ticking. HR modules were generic and didn't explain how the product teams actually, I worked. There was no personalized onboarding for engineers or AI-focused roles. 
+ 
+ 
+Section C — Finding Information at Work 
+[13:00] Interviewer: Where do you go first when you need an answer? 
+[13:30] Participant P01: I usually start with Confluence. If I don't find it there, I check Teams or ask someone directly. For code-related info, check out GitHub first. 
+[14:00] Interviewer: How often do you check out more than one place? What's annoying? 
+[14:30] Participant P01: Almost every day. The annoying part is that different teams store information differently. Engineering uses Confluence; some teams use GitHub wikis, and products use Google Drive. There's no single source of truth. 
+[15:00 Interviewer: Tell me about a time when you couldn't find something important. 
+[15:30] Participant P01: I needed the latest AI model for API documentation. The version in Confluence was outdated, and the updated one was hidden in a private Teams chat. I wasted nearly an hour searching. 
+[16:00] Interviewer: How do you keep track of important links or documents? 
+[16:30] Participant P01: I bookmark things and create personal folders, but it becomes messy. I also pin messages in teams, but after a few weeks, it's impossible to remember what's pinned where. 
+[17:00] Interviewer: If you had one home screen at work, what would you want to show? 
+[17:30] Participant P01: My tasks, deadlines, code repositories, AI model updates, and key documents. Also, a “recent changes” feed so I know what's new. 
+[18:00] Interviewer: What information should be quick to reach? 
+[18:30] Participant P01: API documentation updates, project requirements, and AI model behavior guidelines. These should be accessible within seconds. 
+[19:00] Interviewer: How do you know if a document is correct or up to date? 
+[19:30] Participant P01: I usually ask someone. There's no reliable indicator in most tools. That's a big problem. 
+ 
+Section D — Starting a Job / Smart Onboarding 
+[20:00] Interviewer: What would have made you feel less lost on Day 1? 
+[20:30] Participant P01: A personalized onboarding dashboard for engineers — showing the tools I need, the codebase overview, the AI guidelines, and the first tasks to complete. 
+[21:00] Interviewer: Did you know what to do next each day? 
+[21:30] Participant P01: Not really. I had to ask my manager frequently. A daily or weekly onboarding plan would have helped a lot. 
+[22:00] Interviewer: What makes onboarding feel personal and useful? 
+[22:30] Participant P01: Role-specific content. Engineers need different onboarding than designers or HR. Also, interactive onboarding — not just documents. 
+[23:00] Interviewer: What made you feel “I'm on track”? 
+[23:30] Participant P01: When I completed small tasks and got feedback. Also, when I understood how the AI models worked and how my code contributed to them. 
+[24:00] Interviewer: When you needed help, did you know who to ask? 
+[24:30] Participant P01: Not at first. I didn't know who owned what. A “who to ask” directory would have helped. 
+ 
+Section E — AI Helper Trust 
+[25:00] Interviewer: Have you used AI tools at work? 
+[25:30] Participant P01: Yes — for generating code snippets, summarizing documents, and analyzing bug reports. AI is helpful, but it needs transparency. 
+[26:00] Interviewer: What would make you trust an AI answer? 
+[26:30] Participant P01: Clear sources, reasoning, and confidence levels. I want to know why the AI suggested something. 
+[27:00] Interviewer: What would make you not trust it? 
+[27:30] Participant P01: If it gives vague answers or doesn't show evidence. Also, if it contradicts known guidelines. 
+[28:00] Interviewer: What questions should AI redirect to a human? 
+[28:30] Participant P01: Anything involving HR, performance, conflict, or sensitive decisions. Also, anything that requires emotional judgement. 
+[29:00] Interviewer: Would you worry about privacy? What would reassure you? 
+[29:30] Participant P01: Yes. I'd want clear documentation on what data the AI uses, how it stores it, and whether personal data is excluded. 
+ 
+Section F — Wrap-Up 
+[30:00] Interviewer: What were the top 2 problems you mentioned? 
+[30:30] Participant P01: Scattered information across multiple tools. No personalized onboarding for engineering/AI roles. 
+[31:00] Interviewer: What do those problems cost you? 
