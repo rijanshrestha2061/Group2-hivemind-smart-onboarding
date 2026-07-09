@@ -1,0 +1,106 @@
+INTERVIEW TRANSCRIPT 
+Participant ID: P01  
+Interview Type: Smart Onboarding Research Interview  
+Date: 2/07/2026 
+Duration: 30 Minutes  
+Interviewer: Deepak Thapa  
+Participant: P01 
+
+
+INTRO & CONSENT (2 minutes) 
+Interviewer: Hi, thanks for joining today. I'm a UX/AI Designer working with Hivemind on improving workplace onboarding and how people find information at work. This isn't a sales call - I'm just learning from your real experience. With your permission, I'd like to record this so I can create a transcript. Your name will be removed and kept anonymous.  
+Is that okay if I record it? 
+Participant P01: Yes, absolutely.  You can record it. 
+
+
+
+SHORT HIVEMIND CONTEXT (2 minutes) 
+Interviewer: Hivemind is exploring Smart Onboarding – a guided onboarding 	journey that helps new starters understand what to do next, find information 		quickly, complete micro-learning, and feel less overwhelmed.  
+I'll ask about your real experience, especially around onboarding, information 	access, and using AI tools at work.  
+Participant P01: Sounds good. I'm happy to share my experience.  
+
+
+
+SECTION A - ROLE & COMPANY CONTEXT (5 minutes) 
+Interviewer: What is your current job role/ title? 
+Participant P01: I’m currently a UX/AI Designer. My work focuses on designing user experiences that integrate AI-driven assistance, automation, and intelligent workflows. 
+Interviewer: If you were between jobs, what was your most recent role? 
+Participant P01: I’m employed right now, but previously I worked as a UX Designer with a focus on conversational AI and enterprise tools. 
+Interviewer: What industry is your company in? 
+Participant P01: The company operates in the SaaS and enterprise productivity space — building internal tools for large organizations. 
+Interviewer: Roughly, how big is the company? 
+Participant P01: Around 400 employees globally. 
+
+
+
+SECTION B - WORK & RECENT ONBOARDING (5 minutes) 
+Interviewer: What did the first days or weeks look like? 
+Participant P01: My first week was a mix of excitement and confusion. I had access to many tools — Jira, Confluence, Figma, internal AI dashboards — but no clear sequence of what to do first. I received a lot of documents, but none were prioritized. I spent most of the first week trying to understand the team structure and where information lived. 
+Interviewer: Top 3 things you need to know? 
+Participant P01:
+                The design system and how components were documented. 
+                The AI capabilities the company already had, so I didn’t reinvent anything. 
+                Who the decision-makers were for UX and AI-related features. 
+Interviewer: Hardest part of getting started? Why? 
+Participant P01: The hardest part was understanding the workflow between UX, engineering, and the AI team. Everyone used different tools, and documentation wasn’t centralized. I had to ask multiple people to confirm whether something was up to date. 
+Interviewer: Did onboarding feel helpful or box ticking? 
+Participant P01: It felt like box ticking. HR modules were generic and didn’t explain how the product teams actually worked. There was no personalized onboarding for designers or AI-focused roles. 
+
+
+
+SECTION C - FINDING INFORMATION AT WORK (7 minutes) 
+Interviewer: Where do you go first when you need an answer? 
+Participant P01: I usually start with Confluence. If I don’t find it there, I check Teams or ask someone directly. For design-related info, check out Figma first. 
+Interviewer: How often do you check out more than one place? What’s annoying? 
+Participant P01: Almost every day. The annoying part is that different teams store information differently. Engineering uses Confluence, design uses Figma, product uses Google Drive. There’s no single source of truth.  
+Interviewer: Tell me about a time when you can’t find something important. 
+Participant P01: I needed the latest AI model behavior guidelines. The version in Confluence was outdated, and the updated one was hidden in a private Teams chat. I wasted nearly an hour searching. 
+Interviewer: How do you keep track of important links or documents? 
+Participant P01: I bookmark things and create personal folders, but it becomes messy. I also pin messages in Teams, but after a few weeks, it’s impossible to remember what’s pinned where. 
+Interviewer: If you had one home screen at work, what would you want to show? 
+Participant P01: My tasks, deadlines, design files, AI model updates, and key documents. Also, a “recent changes” feed so I know what’s new. 
+Interviewer: What information should be quick to reach? 
+Participant P01: Design system updates, project requirements, and AI model behavior guidelines. These should be accessible within seconds. 
+Interviewer: How do you know if a document is correct or up to date? 
+Participant P01: I usually ask someone. There’s no reliable indicator in most tools. That’s a big problem. 
+
+
+
+
+SECTION D - STARTING A JOB/ SMART ONBOARDING (5 minutes) 
+Interviewer: What would have made you feel less lost on Day 1? 
+Participant P01: A personalized onboarding dashboard for designers — showing the tools I need, the design system, the AI guidelines, and the first tasks to complete. 
+Interviewer: Did you know what to do next each day? 
+Participant P01: Not really. I had to ask my manager frequently. A daily or weekly onboarding plan would have helped a lot. 
+Interviewer: What makes onboarding feel personal and useful? 
+Participant P01: Role-specific content. Designers need different onboarding than engineers or HR. Also, interactive onboarding — not just documents. 
+Interviewer: What made you feel “I’m on track”? 
+Participant P01: When I completed small tasks and got feedback. Also, when I understood how the AI models worked and how UX contributed to them. 
+Interviewer: When you needed help, did you know who to ask? 
+Participant P01: Not at first. I didn’t know who owned what. A “who to ask” directory would have helped. 
+
+
+
+SECTION E - AI Helper Trust (3 minutes) 
+Interviewer: Have you used AI tools at work? 
+Participant P01: Yes — for generating wireframe ideas, summarizing documents, and analyzing user feedback. AI is helpful, but it needs transparency. 
+Interviewer: What would make you trust an AI answer? 
+Participant P01: Clear sources, reasoning, and confidence levels. I want to know why the AI suggested something. 
+Interviewer: What would make you not trust it? 
+Participant P01: If it gives vague answers or doesn’t show evidence. Also, if it contradicts known guidelines. 
+Interviewer: What questions should AI redirect to a human? 
+Participant P01: Anything involving HR, performance, conflict, or sensitive decisions. Also, anything requires emotional judgement. 
+Interviewer: Would you worry about privacy? What would reassure you? 
+Participant P01: Yes. I’d want clear documentation on what data the AI uses, how it stores it, and whether personal data is excluded. 
+
+
+
+SECTION F — Wrap-Up (3 minutes) 
+Interviewer: What were the top 2 problems you mentioned? 
+Participant P01: 
+                Scattered information across multiple tools. 
+                No personalized onboarding for UX/AI roles. 
+Interviewer: What do those problems cost you? 
+Participant P01: Time, frustration, slower productivity, and mistakes. 
+Interviewer: If you could change one thing to make starting a job easier, what would it be? 
+Participant P01: A Smart Onboarding dashboard tailored to my role — with tasks, documents, AI guidelines, and progress tracking. 
