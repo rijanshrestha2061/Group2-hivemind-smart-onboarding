@@ -8,7 +8,7 @@ Interviewer: Bishal Basnet
 Participant: P01
 
 
-[00:00] Interviewer: Thanks for joining. This is a university project with HiveMind about improving workplace onboarding and how people find information at work. It's not a sales call—I'm just learning from your experience. With your permission, I'll record this so I can write a transcript, and I'll remove your name and keep it anonymous. Is it okay if I record?
+[00:00] Interviewer: Thanks for joining. This is a university project with HiveMind about improving workplace onboarding and how people find information at work. It's not a sales call,I'm just learning from your experience. With your permission, I'll record this so I can write a transcript, and I'll remove your name and keep it anonymous. Is it okay if I record?
 
 [00:05] Participant P01: Yes, that's fine.
 
