@@ -8,26 +8,25 @@ Participant: P01
 
 
 INTRO & CONSENT  
-[01:00]Interviewer: Hi, thanks for joining today. I'm a UX/AI Designer working with Hivemind on improving workplace onboarding and how people find information at work. This isn't a sales call - I'm just learning from your real experience. With your permission, I'd like to record this so I can create a transcript. Your name will be removed and kept anonymous.  
-Is that okay if I record it? 
+[01:00]Interviewer: Hi, it's nice to see you today. I am a UX/AI Designer at Hivemind, working on enhancing the onboarding experience in the workplace and how users discover information while at work. It's not a sales call, it is just me finding out from your experience. If you are OK with it, I would like to record this so that I can make a transcript. Your name will be removed and will be anonymous. 
 [01:30]Participant P01: Yes, absolutely.  You can record it. 
 
 
 
 SHORT HIVEMIND CONTEXT  
-[02:00]Interviewer: Hivemind is exploring Smart Onboarding – a guided onboarding 	journey that helps new starters understand what to do next, find information 		quickly, complete micro-learning, and feel less overwhelmed.  
-I'll ask about your real experience, especially around onboarding, information 	access, and using AI tools at work.  
+[02:00]Interviewer: Hivemind is exploring Smart Onboarding – a guided onboarding path that makes new starters feel less overwhelmed, complete micro-learning, and find information quickly – is something Hivemind is researching.  
+I will ask you what it is like in real life, particularly with regard to your experience of induction, information access and the use of AI tools on the job.  
 [02:30]Participant P01: Sounds good. I'm happy to share my experience.  
 
 
 
 SECTION A - ROLE & COMPANY CONTEXT 
 [03:00]Interviewer: What is your current job role/ title? 
-[03:30]Participant P01: I’m currently a UX/AI Designer. My work focuses on designing user experiences that integrate AI-driven assistance, automation, and intelligent workflows. 
+[03:30]Participant P01: Currently, I'm working as a UX/AI Designer. My focus is on creating user experiences that combine intelligent workflows, automation, and AI-powered assistance.
 [04:00]Interviewer: If you were between jobs, what was your most recent role? 
-[04:30]Participant P01: I’m employed right now, but previously I worked as a UX Designer with a focus on conversational AI and enterprise tools. 
+[04:30]Participant P01: Currently working in a position, in the past UX Designer, specializing in conversational AI and enterprise solutions. 
 [05:00]Interviewer: What industry is your company in? 
-[05:30]Participant P01: The company operates in the SaaS and enterprise productivity space — building internal tools for large organizations. 
+[05:30]Participant P01: The company is in SaaS/enterprise productivity — developing internal applications for big companies.
 [06:00]Interviewer: Roughly, how big is the company? 
 [06:30]Participant P01: Around 400 employees globally. 
 
@@ -35,22 +34,22 @@ SECTION A - ROLE & COMPANY CONTEXT
 
 SECTION B - WORK & RECENT ONBOARDING 
 [07:00]Interviewer: What did the first days or weeks look like? 
-[07:30]Participant P01: My first week was a mix of excitement and confusion. I had access to many tools — Jira, Confluence, Figma, internal AI dashboards — but no clear sequence of what to do first. I received a lot of documents, but none were prioritized. I spent most of the first week trying to understand the team structure and where information lived. 
+[07:30]Participant P01: I was very excited and confused for the first week. There were numerous tools of which I had access to: Jira, Confluence, Figma, internal tools with AI dashboards, but not a clear sequence of what to do first. I got countless of documents, none of which were marked with priority. In the first week I spent a good portion trying to grasp the team structure and information.
 [07:00]Interviewer: Top 3 things you need to know? 
 [08:00]Participant P01:
-                The design system and how components were documented. 
-                The AI capabilities the company already had, so I didn’t reinvent anything. 
+                The design system and documentation of components. 
+                I didn't create anything new using AI, as the company already had the AI that was needed. 
                 Who the decision-makers were for UX and AI-related features. 
 [08:30]Interviewer: Hardest part of getting started? Why? 
-[09:00]Participant P01: The hardest part was understanding the workflow between UX, engineering, and the AI team. Everyone used different tools, and documentation wasn’t centralized. I had to ask multiple people to confirm whether something was up to date. 
+[09:00]Participant P01: The most challenging was when it came to understanding how the UX and engineering team interacted with the AI team. Different tools were used by everyone and there was no central documentation. I had to put more than one query to others asking if something was "up to date".
 [09:30]Interviewer: Did onboarding feel helpful or box ticking? 
-[10:00]Participant P01: It felt like box ticking. HR modules were generic and didn’t explain how the product teams actually worked. There was no personalized onboarding for designers or AI-focused roles. 
+[10:00]Participant P01: It was like it was a checklist. HR modules were, in essence, non-specific and didn't actually tell me much about how the product teams operated. No individualized induction for designers and/or AI jobs.
 
 
 
 SECTION C - FINDING INFORMATION AT WORK 
 [10:30]Interviewer: Where do you go first when you need an answer? 
-[11:00]Participant P01: I usually start with Confluence. If I don’t find it there, I check Teams or ask someone directly. For design-related info, check out Figma first. 
+[11:00]Participant P01: Typically, I begin with Confluence. If I can't find it in the Teams, then I ask someone directly. If you are looking for design related information, you can start with Figma.
 [11:30]Interviewer: How often do you check out more than one place? What’s annoying? 
 [12:00]Participant P01: Almost every day. The annoying part is that different teams store information differently. Engineering uses Confluence, design uses Figma, product uses Google Drive. There’s no single source of truth.  
 [12:30]Interviewer: Tell me about a time when you can’t find something important. 
