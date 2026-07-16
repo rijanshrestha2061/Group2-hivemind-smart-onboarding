@@ -1,77 +1,225 @@
- Interview Transcript
 
-Participant ID: P01  
-Interview Type: Smart Onboarding Research Interview  
-Date:[5/07/2026]  
-Duration: Approximately 30 minutes  
-Interviewer: Bishal Basnet  
+Interview Transcript:
+
+Participant ID: P01
+Interview Type: Smart Onboarding Research Interview
+Date: 05/07/2026
+Duration: Approximately 35 minutes
+Interviewer: Bishal Basnet
 Participant: P01
 
+[00:00]
 
-[00:00] Interviewer: Thanks for joining. This is a university project with HiveMind about improving workplace onboarding and how people find information at work. It's not a sales call,I'm just learning from your experience. With your permission, I'll record this so I can write a transcript, and I'll remove your name and keep it anonymous. Is it okay if I record?
+Interviewer:
+Thanks for joining today. This interview is part of a university project with HiveMind. We're exploring how workplace onboarding can be improved and how employees find information when they're new to an organisation. This isn't a sales call—I'm simply interested in learning about your experiences. With your permission, I'd like to record the interview so I can accurately write the transcript later. Your identity will remain anonymous. Is that okay with you?
 
-[00:05] Participant P01: Yes, that's fine.
+[00:45]
 
-[00:30] Interviewer: HiveMind is exploring Smart Onboarding—a guided journey that helps new starters know what to do next, find information, and feel less overwhelmed. I'll ask about your real experience starting jobs or joining new teams.
+Participant:
+Yes, that's fine with me.
 
-[01:10] Interviewer: What's your current job role?
+[01:00]
 
-[01:14] Participant P01: I'm a software designer at a technology company.
+Interviewer:
+Great, thank you. Before we begin, just to give you some context, HiveMind is developing a Smart Onboarding experience that guides new employees through their first few weeks, helping them understand what they need to do, where to find information, and who to ask for help. I'll mostly be asking about your own experiences starting a new job or joining a new team.
 
-[01:20] Interviewer: Roughly how big is the company?
+[01:50]
 
-[01:22] Participant P01: Around 700 people, so the 201–1,000 range.
+Interviewer:
+To start with, could you tell me a little about your current role?
 
-[03:00] Interviewer: Think about the last time you started a job or changed teams. What did the first days or weeks look like?
+[02:00]
 
-[03:08] Participant P01: There was a lot to take in. I got access to all the design tools on the first day, but nobody really explained how the design system worked or where everything was. I spent most of my time looking through old design files and documentation.
+Participant:
+Sure. I'm currently working as a software designer at a technology company. My role involves creating user interfaces, improving user experience, collaborating with developers and product managers, and making sure our designs meet both business and customer needs.
 
-[04:20] Interviewer: What was the hardest part of getting started? Why?
+[03:00]
 
-[04:24] Participant P01: Understanding who was responsible for different products. I wasn't sure who to ask about design decisions, so I felt like I was interrupting people all the time.
+Interviewer:
+Approximately how large is your organisation?
 
-[05:20] Interviewer: Did onboarding feel helpful, or more like box-ticking?
+[03:10]
 
-[05:23] Participant P01: Mostly box-ticking. The HR sessions covered company policies, but they didn't really help me understand my day-to-day design work.
+Participant:
+There are around 700 employees altogether, so it's a fairly large company with several different departments and product teams.
 
+[04:00]
 
-[08:00] Interviewer: When you need an answer at work, where do you go first?
+Interviewer:
+Thinking back to when you first joined the company, can you describe what your first few days or weeks were like?
 
-[08:03] Participant P01: Usually Confluence. If I can't find it there, I'll search Slack.
+[04:20]
 
-[09:10] Interviewer: And if you don't find it there?
+Participant:
+Honestly, it felt quite overwhelming at first. I received access to all the tools I needed on my first day, which was helpful, but there wasn't much explanation about how everything connected together. I spent quite a lot of time opening old design files, reading documentation, and trying to understand the company's design system. There was a lot of information available, but it wasn't organised in a way that made it easy for someone new to understand.
 
-[09:12] Participant P01: Then I ask another designer or message the product manager. Sometimes there are several versions of the same document, so it's hard to know which one is current.
+[06:20]
 
-[10:30] Interviewer: If you had one home screen at work showing the most important things, what would you want it to show?
+Interviewer:
+Was there anything that surprised you during that onboarding period?
 
-[10:35] Participant P01: My current tasks, project deadlines, the latest design files, and a list of who to contact for different products or design questions.
+[06:30]
 
-[14:00] Interviewer: On your first day, what would have made you feel less lost?
+Participant:
+I think what surprised me most was how much I had to figure out on my own. I expected there would be more structured guidance or someone checking in regularly during the first week. Instead, I found myself asking lots of questions whenever I got stuck.
 
-[14:04] Participant P01: A simple checklist showing what to do each day, which tools to learn first, and who I should meet during the first week.
+[07:40]
 
-[15:20] Interviewer: What made you feel "I'm doing okay" or "on track"?
+Interviewer:
+What would you say was the biggest challenge during those first few weeks?
 
-[15:25] Participant P01:Regular feedback from my manager during weekly check-ins. That helped me understand whether I was meeting expectations.
+[07:55]
 
+Participant:
+Knowing who was responsible for different projects. Because there were several product teams, I wasn't always sure who the right person was to ask. Sometimes I worried about interrupting people or asking someone who wasn't actually involved.
 
-[19:00] Interviewer: Have you used AI tools at work, like chatbots or Copilot-style tools?
+[09:30]
 
-[19:05] Participant P01: Yes, mostly for generating UX copy, summarising meeting notes, and brainstorming design ideas. I wouldn't rely on it for company policies or technical processes.
+Interviewer:
+How did that uncertainty affect your confidence?
 
-[20:10] Interviewer: What would make you trust an AI tool's answer more?
+[09:45]
 
-[20:14] Participant P01: If it linked to the official design documentation or company policies so I could check the source myself.
+Participant:
+It definitely slowed me down. Instead of asking immediately, I'd often spend extra time searching through documents or previous conversations first. Sometimes that helped, but other times I ended up wasting time because the information I found was outdated.
 
+[11:15]
 
-[28:10] Interviewer: What were the top two problems you mentioned today?
+Interviewer:
+Overall, did the onboarding process feel genuinely useful, or did it feel more like completing mandatory tasks?
 
-[28:14] Participant P01: Not knowing who to ask about design decisions, and information being spread across too many different tools.
+[11:30]
 
-[29:00] Interviewer: If you could change one thing to make starting a job easier, what would it be?
+Participant:
+I'd say it was mostly focused on completing mandatory tasks. The HR sessions covered policies, security, and company values, which were important, but they didn't really prepare me for my everyday work. I learned much more from colleagues than from the formal onboarding sessions.
 
-[29:05] Participant P01: A clear first-week onboarding checklist with important contacts, design resources, and learning goals.
+[13:30]
 
-[29:45] Interviewer: That's really helpful. Thank you so much for your time.
+Interviewer:
+When you're looking for information now, where do you normally go first?
+
+[13:40]
+
+Participant:
+Usually Confluence because that's where most documentation is stored. If I can't find what I'm looking for there, then I'll search Slack to see if someone has discussed it before.
+
+[15:00]
+
+Interviewer:
+Does that usually work?
+
+[15:10]
+
+Participant:
+Sometimes, yes. But there are occasions where several versions of the same document exist, and it's difficult to know which one is the latest. That can be frustrating because you don't always know whether you're following the correct process.
+
+[16:50]
+
+Interviewer:
+If you still can't find the information, what do you usually do?
+
+[17:00]
+
+Participant:
+Then I'll ask another designer or message the product manager. Most people are happy to help, but I try not to interrupt them unless I really need to.
+
+[18:30]
+
+Interviewer:
+Imagine your company had a single dashboard or homepage for employees. What information would you want it to include?
+
+[18:45]
+
+Participant:
+I'd like to see my current tasks, upcoming deadlines, links to the latest design files, important announcements, and probably a directory showing who owns each product or area. Having all of that in one place would save a lot of time.
+
+[21:00]
+
+Interviewer:
+Thinking back to your very first day, what would have helped you feel less overwhelmed?
+
+[21:15]
+
+Participant:
+A clear checklist covering the first week would have made a huge difference. Something that explained which tools to learn first, who I should meet, and what I was expected to accomplish each day.
+
+[23:00]
+
+Interviewer:
+What made you feel that you were progressing successfully?
+
+[23:15]
+
+Participant:
+The weekly check-ins with my manager were probably the most valuable part. Those conversations helped me understand whether I was meeting expectations and gave me the opportunity to ask questions I hadn't been confident enough to ask earlier.
+
+[25:00]
+
+Interviewer:
+Have you used AI tools such as ChatGPT, Microsoft Copilot, or similar assistants in your work?
+
+[25:15]
+
+Participant:
+Yes, quite regularly. I mostly use them for brainstorming ideas, writing UX copy, summarising meeting notes, and sometimes explaining technical concepts. They're useful for saving time, but I don't rely on them for company-specific information.
+
+[27:00]
+
+Interviewer:
+Why not?
+
+[27:10]
+
+Participant:
+Because they don't always have access to the latest internal information. If I'm looking for company policies or technical procedures, I'd rather check official documentation or ask someone directly.
+
+[28:30]
+
+Interviewer:
+What would make you trust an AI assistant more in the workplace?
+
+[28:45]
+
+Participant:
+If every answer included links to official documentation or the original source. That way I could quickly verify the information instead of simply trusting what the AI says.
+
+[30:20]
+
+Interviewer:
+Looking back over everything we've discussed today, what would you say are the two biggest onboarding problems you experienced?
+
+[30:35]
+
+Participant:
+First, not knowing who to ask when I needed help. Second, having information spread across too many different systems and documents.
+
+[32:00]
+
+Interviewer:
+If you could change just one thing about your onboarding experience, what would it be?
+
+[32:15]
+
+Participant:
+I'd introduce a structured first-week onboarding plan with daily goals, key contacts, links to important resources, and regular check-ins with a mentor or manager. I think that would make new employees feel much more confident.
+
+[34:00]
+
+Interviewer:
+Is there anything else you'd like to add that we haven't discussed today?
+
+[34:10]
+
+Participant:
+Just that onboarding isn't only about giving people access to systems. It's about helping them feel part of the team and giving them confidence. Small improvements like better organisation, clear documentation, and knowing who to ask can make a big difference.
+
+[34:50]
+
+Interviewer:
+That's everything I wanted to ask today. Thank you very much for sharing your experiences. Your feedback will be extremely valuable for our research.
+
+[35:00]
+
+Participant:
+You're welcome. I'm glad I could help.
 
