@@ -1,4 +1,4 @@
-If this is for **creating a fictional sample interview** (not a real research transcript), here's a complete example with the participant acting as a **Project Leader**. This should be clearly identified as a **sample** rather than a transcript of an actual interview.
+
 
 # Interview Transcript
 
