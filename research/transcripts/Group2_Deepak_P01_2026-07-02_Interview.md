@@ -34,7 +34,7 @@ Third, I wanted to understand who had ultimate decision-making power and who own
 [12:00] Interviewer: Give me an example of that?  
 [12:10] Participant P01: Before beginning a design project, I was searching for guidelines of AI model behavior. One version was available in Confluence, but another team had made updates to the documentation and only shared it in Microsoft Teams. I took a while to get the right one by asking people.  
 [13:30] Interviewer: Were there any experiences that impacted your work?  
-[13:40] Participant P01:It slowed things down. Rather than design activity, I spent my time, verifying information. It also made me less confident and I was not certain if I was making decisions based on the old guidance.
+[13:40] Participant P01: It slowed things down. Rather than design activity, I spent my time, verifying information. It also made me less confident and I was not certain if I was making decisions based on the old guidance.
 [15:00] Interviewer: Where do you typically start when you're looking for information today?  
 [15:10] Participant P01: Usually Confluence. If it's a Figma topic I'll look in Figma, if it's a Microsoft Teams topic I'll look in Microsoft Teams. I will ask a person directly if if it is still unclear to me. [16:10] Interviewer: Do you have to look for more than one location?  
 [16:20] Participant P01: Almost every day. Engineering primarily uses Confluence, designers use Figma, product managers frequently use Google Drive, and some key decisions are lost in the Teams conversations.  
@@ -50,7 +50,7 @@ Rather than having the same content for all, I would be getting onboarding tailo
 [23:10] Interviewer: The question is, did you always know what you should work on next? 
 [23:20] Participant P01: No. I'd have to ask my manager quite a bit. A weekly roadmap with suggested learning and anticipated future steps would have alleviated much of the uncertainty. 
 [24:30] Interviewer: What did you find you were doing well? 
-[24:40] Participant P01:Tackled small tasks and got feedback from older designers, as well as successfully contributing to my first project involving AI. Those milestones made me feel I was becoming productive. 
+[24:40] Participant P01: Tackled small tasks and got feedback from older designers, as well as successfully contributing to my first project involving AI. Those milestones made me feel I was becoming productive. 
 AI in the Workplace 
 [26:00] Interviewer: Did you regularly use AI tools in your work? 
 [26:10] Participant P01: Yes. I leverage AI on a daily basis to brainstorm wireframe ideas, to summarize lengthy documents, to analyse user feedback, to generate meeting notes, and to enhance design copy. 
@@ -61,7 +61,7 @@ AI in the Workplace
 [29:50] Interviewer: Are there any instances in which AI should not respond? 
 [30:00] Participant P01: Definitely. A human should always be in charge of HR matters, performance reviews, disciplinary issues, conflict, and so on. 
 [31:00] Interviewer: Do privacy concerns affect your willingness to use AI? 
-[31:10] Participant P01:Yes. I want transparency regarding the types of data being gathered, who has access to it, where it is stored, and if there are any confidential employee data excluded from training AI. 
+[31:10] Participant P01: Yes. I want transparency regarding the types of data being gathered, who has access to it, where it is stored, and if there are any confidential employee data excluded from training AI. 
 [32:30] Interviewer: What would you built if you were designing on-boarding from scratch? 
 [32:40] Participant P01: I would develop an intelligent onboarding assistant, which would integrate all the following: personalised learning, document search, progress tracking, role-specific checklists, verified sources and AI-powered answers. It would take employees on a tour rather than hand them documents. 
 [34:20] Interviewer: What would be the most valuable features? 
