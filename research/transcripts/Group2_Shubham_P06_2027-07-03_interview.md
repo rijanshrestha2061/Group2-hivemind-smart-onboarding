@@ -1,175 +1,70 @@
+**Participant ID: P06
 Interview Type: Smart Onboarding Research Interview
-Date: 03/07/2026
-Duration: 25 minutes
-Interviewer: Shubham Parajuli
-Participant: P01
-
-
-
-INTRO & CONSENT
-[00:00] Interviewer: Thanks for joining today. I’m working on a UX discovery sprint with HiveMind, focusing on Smart Onboarding — how people experience their first days at work and how they find information. This is not a sales call.
-
-Before we begin, I’d like to record the conversation so I can create an anonymised transcript. Your name won’t appear anywhere.
-Is it okay if I record this interview?
-
-[00:38] Participant P01: Yes, that’s completely fine. You can record it.
-
-[00:50] Interviewer: Great, thank you. If at any point you want to skip a question, just let me know.
-
-
-
-SECTION A — ROLE & COMPANY CONTEXT
-[01:10] Interviewer: To start, what’s your current job role?
-[01:18] Participant P01: I’m an IT Support Analyst. I mainly handle technical onboarding, access setup, troubleshooting, and user support for employees across different departments. I also help maintain internal documentation for common issues.
-
-[01:50] Interviewer: What industry is your company in?
-[01:56] Participant P01: We’re in financial services — digital banking, investment management, and compliance‑heavy operations. Everything we do has strict security requirements.
-
-[02:20] Interviewer: Roughly how big is the company?
-[02:26] Participant P01: Around 3,000 employees across Europe and Asia. The IT department alone has about 150 people.
-
-[02:45] Interviewer: And how long have you been in this role?
-[02:51] Participant P01: About nine months now. I joined last year during a period of rapid expansion.
-
-[03:10] Interviewer: Did you have any previous experience in IT support?
-[03:16] Participant P01: Yes, I worked in a smaller tech company before this. But the scale and complexity here are completely different.
-
-[03:40] Interviewer: What does a typical day look like for you?
-[03:46] Participant P01: Mostly resolving tickets, setting up accounts, helping new starters, and updating internal guides. Some days are calm, others are chaotic depending on system issues.
-
-
-
-SECTION B — WORK & RECENT ONBOARDING EXPERIENCE
-[04:10] Interviewer: Thinking back to when you joined, what did your first days or weeks look like?
-[04:18] Participant P01: My first week was overwhelming. I got access to multiple systems — Outlook, ServiceNow, our internal banking platform, security dashboards — but no one explained what each system was for. I had a long checklist, but nothing was prioritised, so I didn’t know what mattered most.
-
-[04:50] Participant P01: I also had several meetings scheduled, but many of them were generic HR sessions. Only one meeting was actually relevant to IT Support.
-
-[05:15] Interviewer: What were the top things you needed to know early on?
-[05:22] Participant P01:
-
-        Which systems were essential for my daily work.
-
-        Who approved access for different tools.
-
-        Where updated troubleshooting guides were stored.
-
-        How tickets were escalated and who handled what type of issue.
-
-[05:55] Interviewer: What was the hardest part of getting started?
-[06:02] Participant P01: Understanding the security workflow. Financial companies have strict rules, but no one explained the approval chain. I had to ask three different teams to figure out who handled what.
-
-[06:25] Participant P01: Another challenge was learning the internal jargon. People used abbreviations constantly, and there was no glossary or reference.
-
-[06:50] Interviewer: Did onboarding feel helpful or more like box‑ticking?
-[06:56] Participant P01: Mostly box‑ticking. HR training was mandatory but generic. Nothing explained how IT Support actually worked day‑to‑day.
-
-[07:15] Participant P01: The only useful part was shadowing a senior colleague, but that wasn’t officially part of onboarding — I arranged it myself.
-
-[07:40] Interviewer: How long did it take before you felt comfortable?
-[07:46] Participant P01: Around two months. Not because the work was hard, but because I kept discovering things I should have known earlier.
-
-
-
-SECTION C — FINDING INFORMATION AT WORK
-[08:10] Interviewer: When you need an answer at work, where do you usually go first?
-[08:16] Participant P01: ServiceNow knowledge base. If I don’t find it there, I check Teams or ask a senior colleague.
-
-[08:40] Interviewer: How often do you check more than one place?
-[08:45] Participant P01: Pretty much every day. Information is scattered — some guides are in ServiceNow, some in SharePoint, some in Teams chats.
-
-[09:10] Participant P01: Sometimes I even have to search my email because someone shared a document months ago and never uploaded it anywhere.
-
-[09:35] Interviewer: Tell me about a time when you couldn’t find something important.
-[09:41] Participant P01: I needed updated MFA troubleshooting steps. The version in ServiceNow was outdated, and the correct one was hidden in a SharePoint folder only managers had access to. I wasted almost an hour trying to locate it.
-
-[10:10] Participant P01: Another time, I needed a list of approved software. The list existed, but it was buried inside a PDF attached to a Teams message from six months ago.
-
-[10:35] Interviewer: How do you keep track of important links or documents?
-[10:40] Participant P01: I save links in a personal OneNote notebook. But after a few weeks, it becomes cluttered. I also rely heavily on colleagues who “know where things are.”
-
-[11:05] Participant P01: I tried creating my own folder structure, but documents change so often that my saved versions become outdated quickly.
-
-[11:30] Interviewer: If you had one home screen at work, what would you want it to show?
-[11:36] Participant P01: My tickets, priority tasks, updated guides, and a list of key contacts. A “recent changes” feed would also be extremely helpful.
-
-[12:00] Participant P01: I’d also want quick access to system status updates — like if a tool is down or undergoing maintenance.
-
-[12:25] Interviewer: How do you know if a document is up to date?
-[12:30] Participant P01: I don’t. I usually ask someone. There’s no version control or update indicator.
-
-
-
-SECTION D — STARTING A JOB / SMART ONBOARDING 
-[13:00] Interviewer: As someone who works with many tools, what kind of interface would have helped you on Day 1?
-[13:06] Participant P01: A clean dashboard with clear sections — “Start Here,” “Tools Setup,” “First Tasks,” “Key People.” Something visual, not just text.
-
-[13:35] Interviewer: What UI elements help you understand information quickly?
-[13:40] Participant P01: Icons, colour coding, progress bars, and simple layouts. I don’t want to scroll through long paragraphs.
-
-[14:05] Interviewer: What would have made your Day 1 easier?
-[14:10] Participant P01: A dashboard showing the tools I need, the order to set them up, and the first tasks to complete.
-
-[14:35] Interviewer: Did you know what to do next each day?
-[14:40] Participant P01: Not at all. A daily plan would have helped.
-
-[15:05] Interviewer: What makes onboarding feel personal and useful?
-[15:10] Participant P01: Role‑specific content. IT Support onboarding should be different from HR or Finance. Also short interactive modules instead of PDFs.
-
-[15:35] Interviewer: When did you feel “I’m on track”?
-[15:40] Participant P01: When I understood the approval workflow and could resolve basic tickets without asking for help.
-
-[16:05] Interviewer: When you needed help, did you know who to ask?
-[16:10] Participant P01: Not at first. It took weeks to understand the team structure.
-
-[16:35] Interviewer: Was there a moment when things finally clicked?
-[16:40] Participant P01: Around week six, once I built my own mental map of who handles what. I wish that map existed on day one.
-
-
-
-SECTION E — AI HELPER TRUST
-[17:10] Interviewer: Have you used AI tools at work?
-[17:15] Participant P01: Yes, mainly for summarising long incident reports and generating quick troubleshooting drafts.
-
-[17:40] Interviewer: What would make you trust an AI answer?
-[17:45] Participant P01: Clear sources and reasoning. I want to know where the information came from and why it’s relevant.
-
-[18:10] Interviewer: What would make you not trust it?
-[18:15] Participant P01: If it gives generic answers or contradicts known procedures.
-
-[18:40] Interviewer: What questions should AI redirect to a human?
-[18:45] Participant P01: Anything involving HR issues, performance, or sensitive decisions.
-
-[19:10] Interviewer: Would you worry about privacy?
-[19:15] Participant P01: Yes. I’d want to know what data the AI stores and whether personal information is excluded.
-
-[19:40] Interviewer: Would you use an AI onboarding assistant if it existed?
-[19:45] Participant P01: Yes — if it’s accurate and transparent. It could save a lot of time.
-
-
-
-SECTION F — WRAP‑UP
-[20:10] Interviewer: What were the top problems you mentioned?
-[20:15] Participant P01:
-
-        Scattered information across multiple tools.
-
-        No clear priority or sequence during onboarding.
-
-        Outdated documentation.
-
-        Unclear team ownership.
-
-        Lack of role‑specific onboarding.
-
-        No visual guidance or progress tracking.
-
-[20:50] Interviewer: What do those problems cost you?
-[20:55] Participant P01: Time, confusion, slower productivity, and mistakes.
-
-[21:20] Interviewer: If you could change one thing to make onboarding easier, what would it be?
-[21:25] Participant P01: A Smart Onboarding dashboard with tasks, updated documents, progress tracking, and key contacts — all in one place.
-
-[21:50] Interviewer: Thank you — that’s everything from my side.
-[21:55] Participant P01: No problem, happy to help.
-
+Date: 03 July 2026
+Duration: Approximately 30 minutes
+[00:00] Interviewer: Hi, thanks very much for joining me today. I’m Shubham, a student at Ravensbourne University, and I’m currently working with HiveMind on a UX discovery sprint. We’re looking at how people experience workplace onboarding and how they find information during their first few weeks in a new role.
+[00:28] Interviewer: Before we begin, I’d just like to mention that this isn’t a test or a sales call. I’m simply interested in hearing about your experiences. With your permission, I’d like to record the interview so I can prepare an accurate transcript afterwards. Your name won’t appear anywhere, and everything you share will remain anonymous. You can also skip any question or stop the interview at any time if you want.
+[01:05] Interviewer: Would it be okay if I record our conversation today?
+[01:10] Participant P06: Yeah, absolutely. That’s completely fine.
+[01:18] Interviewer: Great, thank you. Most of my questions will focus on your experience when you joined your current organisation and how easy—or difficult—it was to find information during onboarding.
+[01:35] Participant P06: Sounds good. Happy to help.
+[02:10] Interviewer: To start with, could you tell me a little about your current role?
+[02:22] Participant P06: Sure. I’m an IT Support Analyst. My role mainly involves helping employees with technical issues, setting up accounts for new starters, managing access permissions, troubleshooting software problems, and supporting users across different departments. I also update internal documentation whenever we find a better solution to a recurring issue, so there’s a mix of technical support and documentation.
+[04:25] Interviewer: And what industry does your organisation operate in?
+[04:35] Participant P06: We’re in financial services. The company provides digital banking and investment services, so security and compliance are a huge part of everything we do. Even relatively small changes usually have to go through several approval steps.
+[05:45] Interviewer: Roughly how large is the organisation?
+[05:55] Participant P06: It’s fairly large—around three thousand employees across Europe and Asia. The IT department itself has roughly one hundred and fifty people, split into different specialist teams.
+[06:45] Interviewer: How long have you been in this role now?
+[06:55] Participant P06: Just over nine months. I actually joined while the company was expanding quite quickly, so there were a lot of new employees starting around the same time.
+[07:35] Interviewer: Had you worked in IT support before joining this company?
+[07:45] Participant P06: Yeah, I had. I worked for a much smaller technology company before this. The actual technical work wasn’t completely new to me, but the scale here was very different. There were far more systems, stricter security processes, and many more teams involved.
+[08:45] Interviewer: Thinking back to when you first joined, what were those first few days like?
+[09:00] Participant P06: Hmm… honestly, I’d describe them as exciting but quite overwhelming as well. I was given access to lots of different systems—Outlook, ServiceNow, security dashboards, internal banking applications—but nobody really explained what each one was for or which ones I’d actually be using every day.
+There was also a really long onboarding checklist. Everything seemed equally important, so I wasn’t sure what I should focus on first.
+[11:10] Interviewer: Were there many meetings during that first week?
+[11:18] Participant P06: Quite a few, actually. Most of them were general HR sessions about company policies and compliance, which were obviously necessary, but only one or two meetings were directly related to IT Support. I remember thinking it would’ve been helpful to have more role-specific sessions earlier on.
+[12:35] Interviewer: During those first couple of weeks, what were the main things you needed to learn?
+[12:48] Participant P06: I’d probably say four things.
+First, which systems were essential for my day-to-day work.
+Second, who approved access requests for different applications.
+Third, where the latest troubleshooting guides and documentation were stored.
+And finally, how support tickets were prioritised and escalated between different teams.
+Those were the things I needed almost immediately.
+[14:50] Interviewer: What would you say was the hardest part of getting started?
+[15:00] Participant P06: Probably understanding the security approval process. Because it’s a financial organisation, almost everything has an approval workflow, but no one really explained how those workflows worked. I ended up asking three or four different teams before I understood who was responsible for what.
+Another challenge was the internal terminology. People used abbreviations all the time, and as someone new, I had no idea what half of them meant.
+[16:55] Interviewer: Looking back, did the onboarding process feel genuinely useful, or did it sometimes feel more like a box-ticking exercise?
+[17:08] Participant P06: I’d probably say it leaned more towards box-ticking. The compliance training was important, but it was very generic. It didn’t really prepare me for the day-to-day work I’d actually be doing.
+The most valuable learning actually came from shadowing one of the senior analysts, and that wasn’t even part of the official onboarding—it was something I arranged myself.
+[18:35] Interviewer: How long did it take before you felt confident in the role?
+[18:45] Participant P06: Around two months, I’d say. The technical work itself wasn’t too difficult, but I kept discovering processes and information that would’ve been useful to know much earlier.
+[19:35] Interviewer: When you need information now, where do you usually look first?
+[19:45] Participant P06: Usually the ServiceNow knowledge base. If I can’t find what I need there, I’ll check Microsoft Teams or SharePoint. And if I’m still unsure, I’ll ask one of the more experienced team members.
+[20:55] Interviewer: How often do you find yourself checking more than one place?
+[21:05] Participant P06: Honestly… almost every day.
+Information is spread across several systems. Some documents are in ServiceNow, others are stored in SharePoint, and sometimes useful information only exists inside old Teams conversations or even emails.
+[22:20] Interviewer: Can you think of a time when you struggled to find something important?
+[22:32] Participant P06: Yeah, definitely. I needed the latest guide for troubleshooting multi-factor authentication issues. The document in ServiceNow was outdated, but the updated version was sitting in a SharePoint folder that only managers could access.
+I spent almost an hour trying to find the right version before someone finally sent me the link.
+Another time I needed the approved software list, and it turned out the latest version was hidden inside a PDF attached to a Teams message from months earlier. Situations like that happen more often than they should.
+[24:40] Interviewer: How do you personally keep track of useful information?
+[24:50] Participant P06: Mostly using OneNote. I save links and write little notes for myself because it’s quicker than searching every time.
+I also tried organising everything into folders, but documents get updated so frequently that my saved versions often become outdated.
+[25:55] Interviewer: If you had one central onboarding dashboard, what would you want it to include?
+[26:08] Participant P06: I’d like something really simple.
+My assigned tickets, today’s tasks, setup progress, important contacts, updated documentation, system status, and maybe a feed showing recently updated guides.
+I’d also like a progress tracker so I knew exactly what I’d completed and what still needed doing.
+[27:25] Interviewer: Thinking back to your first week, did you always know what to do next?
+[27:35] Participant P06: Not really.
+There were times when I’d finished everything on my checklist but didn’t know what my next priority should be. A daily roadmap or guided checklist would’ve made a big difference.
+[28:20] Interviewer: Have you used AI tools at work?
+[28:28] Participant P06: Yeah, quite a bit actually. Mostly for summarising long incident reports, drafting emails, or creating troubleshooting notes.
+I still double-check anything important, though, especially if it’s security related.
+[29:05] Interviewer: What would make you trust an AI-generated answer?
+[29:15] Participant P06: I’d want it to clearly reference where the information came from, show when the document was last updated, and explain why it gave that answer. If it can do that, I’d feel much more confident using it.
+[29:45] Interviewer: And finally, if you could change just one thing to improve onboarding for new employees, what would it be?
+[29:55] Participant P06: I’d build one Smart Onboarding platform where everything lives in one place—tasks, documentation, AI search, key contacts, progress tracking, and role-specific guidance. I think it would save new employees a lot of time and help them become productive much sooner.
+[30:20] Interviewer: That’s all the questions I had today. Thank you very much for sharing your experiences. It’s been really helpful.
+[30:30] Participant P06: You’re welcome. Happy to help, and I hope the research goes well.
+End of Transcript
+**
