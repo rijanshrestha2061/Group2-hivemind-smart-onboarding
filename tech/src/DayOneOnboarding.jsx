@@ -108,7 +108,7 @@ export default function DayOneOnboarding() {
           Day 1 · Smart Onboarding
         </p>
         <h1 className="mt-1 text-2xl font-semibold text-slate-900">
-          Welcome, Christoph 👋
+          Welcome, Bishal👋
         </h1>
         <p className="mt-1 text-sm text-slate-500">
           Here's what to focus on today. Tap a task for help.
