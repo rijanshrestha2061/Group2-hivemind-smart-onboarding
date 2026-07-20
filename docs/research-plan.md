@@ -17,7 +17,7 @@ Professionals with real workplace experience. We will not interview students.
 - Participant 5:
 
 ## Interview method
-Short semi-structured interviews, approximately 10–15 minutes each.
+Short semi-structured interviews, approximately 30-40 minutes each.
 
 ## Interview topics
 - First-day or first-week onboarding experience
