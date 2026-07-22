@@ -1,1 +1,86 @@
 
+# Journey Map — Smart Onboarding (Current vs. Future)
+
+Based on `research/synthesis/pain-points.md` (6 interviews: P01, P02, P03, P05, P06, P07)
+and mapped to `docs/hypotheses.md` (4 hypotheses).
+
+---
+
+## Stage 1 — Pre-arrival / First contact
+
+**Current experience**
+- Employee receives access to many systems at once, with no explanation of priority
+- Feeling: excited but already slightly anxious
+
+**Pain points:** Overwhelming first day, no prioritisation (P02, P05, P06)
+
+**Future experience (Smart Onboarding)**
+- Employee opens a single app showing a short, prioritised Day 1 checklist
+- Feeling: reassured — knows exactly where to start
+
+**Hypothesis addressed:** H1
+
+---
+
+## Stage 2 — Day 1
+
+**Current experience**
+- Too many tools/systems opened at once (Jira, Confluence, Teams, Figma, ServiceNow, etc.)
+- No one explains what's most important
+- Time spent figuring out where information lives instead of learning the job
+
+**Pain points:** Overwhelming Day 1 (P02, P05, P06); scattered information (6/6 participants)
+
+**Future experience**
+- Checklist shows only what matters today
+- Progress bar shows real-time completion
+- One tap surfaces "who to ask" for any task
+
+**Hypotheses addressed:** H1, H3
+
+---
+
+## Stage 3 — First week
+
+**Current experience**
+- Mandatory compliance training feels generic, disconnected from actual role
+- Multiple versions of the same document exist; unclear which is current
+- Uncertainty about who owns which process or who to ask
+
+**Pain points:** Generic/box-ticking training (P02, P06, P07); version confusion (P01, P03, P05, P06); unclear ownership (P01, P02, P06)
+
+**Future experience**
+- Role-specific content replaces generic modules where possible
+- Single onboarding hub shows the current, verified version of each document with a last-updated date
+- Contact directory filtered by topic/task
+
+**Hypotheses addressed:** H2, H3, H4
+
+---
+
+## Stage 4 — First month
+
+**Current experience**
+- No clear visibility of what's next once initial tasks are done
+- Manager check-ins (where they happened) were the single most valued support
+- AI tools used for personal productivity, but not trusted for company-specific answers without a visible source
+
+**Pain points:** No visible next step (P03, P05, P06); manager check-ins valued (P02, P07); AI trust requires transparency (6/6 participants)
+
+**Future experience**
+- Ongoing progress tracker shows milestones through the first month, not just Day 1
+- AI assistant answers include source + last-updated date; hands off to a human for HR, salary, disciplinary, and legal matters
+- Manager check-ins remain a core part of the experience, supported (not replaced) by the app
+
+**Hypotheses addressed:** H1, H3
+
+---
+
+## Summary table
+
+| Stage | Top pain points | Hypotheses addressed |
+|---|---|---|
+| Pre-arrival | Overwhelming first day, no prioritisation | H1 |
+| Day 1 | Overwhelming Day 1, scattered information | H1, H3 |
+| First week | Generic training, version confusion, unclear ownership | H2, H3, H4 |
+| First month | No visible next step, AI trust | H1, H3 |
