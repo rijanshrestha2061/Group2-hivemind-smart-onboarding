@@ -1,9 +1,13 @@
 Participant ID: P06
 
 Interview Type: Smart Onboarding Research Interview
+
 Date: 03 July 2026
+
 Duration: Approximately 30 minutes
+
 [00:00] Interviewer: Hi, thanks very much for joining me today. I’m Shubham, a student at Ravensbourne University, and I’m currently working with HiveMind on a UX discovery sprint. We’re looking at how people experience workplace onboarding and how they find information during their first few weeks in a new role.
+
 [00:28] Interviewer: Before we begin, I’d just like to mention that this isn’t a test or a sales call. I’m simply interested in hearing about your experiences. With your permission, I’d like to record the interview so I can prepare an accurate transcript afterwards. Your name won’t appear anywhere, and everything you share will remain anonymous. You can also skip any question or stop the interview at any time if you want.
 [01:05] Interviewer: Would it be okay if I record our conversation today?
 [01:10] Participant P06: Yeah, absolutely. That’s completely fine.
