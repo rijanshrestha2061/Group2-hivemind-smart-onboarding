@@ -40,6 +40,3 @@ weekly-log.md          Weekly progress log for all team members
 4. **Role-specific content over generic training**
 
 See `docs/hypotheses.md` for full detail and supporting evidence.
-
-## Status
-Research and hypothesis work complete. IA, wireframes, and prototype in progress.
