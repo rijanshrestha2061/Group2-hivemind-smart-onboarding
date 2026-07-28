@@ -1,8 +1,5 @@
-# Hypotheses — Smart Onboarding (Updated: 4 hypotheses)
+# Hypotheses — Smart Onboarding ( 4 hypotheses)
 
-Consolidated from the original 6 (see `hypotheses-v1-archive.md`) down to 4, by
-merging closely related hypotheses. Grounded in 6 interviews: P01, P02, P03,
-P05, P06, P04.
 
 **Consolidation logic:**
 - Original H1 (guided checklist) + H2 (progress visibility) → merged into **H1**, since both are about a structured, visible path through Day 1
