@@ -1,37 +1,54 @@
-Home / Onboarding Overview
-├── Day 1
-│   ├── Guided checklist (H1)
-│   └── Progress tracker (H1)
+# Information Architecture — Smart Onboarding 
+
+Home / Dashboard
+Personalised overview of tasks, progress, and updates
+
+├── Before Starting
+│   ├── Welcome message and company overview
+│   ├── Pre-arrival paperwork and setup (equipment, accounts)
+│   └── What to expect on Day 1
 │
-├── Week 1
-│   └── Role-specific tasks (H4)
+├── Onboarding Tasks (ongoing — not just Day 1)
+│   ├── Task checklist, prioritised and updated as onboarding progresses
+│   ├── Progress tracker (Day 1 → First week → First month milestones)
+│   └── Smart reminders for incomplete tasks (surfaces overdue or
+│       upcoming tasks automatically, not just a static list)
 │
-├── My Tasks
-│   ├── Today
-│   ├── This week
-│   └── Completed
+├── Role-Based Learning
+│   ├── Role overview and responsibilities
+│   ├── Role-specific learning modules (replaces generic-only training)
+│   ├── Mandatory training (compliance, still required but clearly
+│       separated from role-specific content)
+│   └── Quizzes and checkpoints
 │
-├── Key Documents
-│   └── Single source, version + last-updated shown (H2)
+├── Information Hub
+│   ├── Company policies and procedures
+│   ├── Key documents, always showing latest version + last-updated date
+│   └── Announcements and FAQs
 │
 ├── Help and Support
-│   ├── Contextual help per task — who to ask (H3)
-│   └── AI assistant — shows source + last-updated date, hands off to a
-│       human for HR/salary/disciplinary/legal (H3)
+│   ├── Team directory and key contacts
+│   ├── Manager check-ins
+│   ├── Buddy / mentor contact
+│   └── Support suggestion feature — guides the user to the right
+│       channel (HR, IT, or manager) based on the type of question,
+│       rather than a flat contact list
 │
-└── Progress Overview
-    └── Milestones across Day 1 → First week → First month (H1)
+└── AI / Smart Support
+    ├── Ask-anything AI assistant
+    ├── Answers always show source + last-updated date
+    └── Automatically escalates to a human for HR, salary,
+        disciplinary, or legal questions
 
-## Why this structure (traceability)
 
-| IA Section | Traces back to |
+
+
+
+## Traceability to hypotheses
+
+| IA Section | Hypothesis |
 |---|---|
-| Day 1 checklist + progress tracker | H1 — overwhelming Day 1, no visibility of next step |
-| Key Documents (single source) | H2 — all 6 participants split search across 3+ systems |
-| Help and Support (contacts + AI) | H3 — didn't know who to ask; wanted source-cited, transparent AI |
-| Week 1 role-specific tasks | H4 — training felt generic, disconnected from actual role |
-
-## Mapped to the journey map stages
-- **Pre-arrival / Day 1** → Home, Day 1 section
-- **First week** → Week 1 section, Key Documents
-- **First month** → Progress Overview, ongoing Help and Support
+| Onboarding Tasks | H1 — Guided first steps + progress |
+| Information Hub | H2 — Centralised information / single source of truth |
+| Help and Support, AI / Smart Support | H3 — Trustworthy, contextual support |
+| Role-Based Learning | H4 — Role-specific content over generic training |
