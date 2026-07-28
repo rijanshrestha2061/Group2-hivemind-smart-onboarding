@@ -8,7 +8,7 @@ Each decision below explains why a hypothesis was kept, how it was formed, and w
 
 **What was decided:** Merge the original "guided checklist" and "progress visibility" hypotheses into one combined hypothesis.
 
-**Why:** Both address the same underlying moment in the new-hire journey — knowing what to do and seeing where you stand. P02, P05, and P06 described being given equal-weight access to many systems with no prioritisation; P03 and P06 separately described finishing tasks without knowing what came next. Splitting these into two hypotheses created redundant testing later, since a working prototype naturally needs both together.
+**Why:** Both address the same underlying moment in the new-hire journey-knowing what to do and seeing where you stand. P02, P05, and P06 described being given equal-weight access to many systems with no prioritisation; P03 and P06 separately described finishing tasks without knowing what came next. Splitting these into two hypotheses created redundant testing later, since a working prototype naturally needs both together.
 
 **Alternative considered:** Keeping them as two separate hypotheses - rejected because they would be tested with the same interface component in Week 3 anyway.
 
@@ -18,7 +18,7 @@ Each decision below explains why a hypothesis was kept, how it was formed, and w
 
 **What was decided:** Keep this as its own hypothesis, unmerged.
 
-**Why:** This has the strongest evidence base in the entire research set — all 6 participants (P01, P02, P03, P05, P06, P04) independently described splitting their search across 3+ systems, and 4 of 6 described a specific incident where version confusion cost real time. No other pain point had unanimous support across every interview.
+**Why:** This has the strongest evidence base in the entire research set-all 6 participants (P01, P02, P03, P05, P06, P04) independently described splitting their search across 3+ systems, and 4 of 6 described a specific incident where version confusion cost real time. No other pain point had unanimous support across every interview.
 
 **Alternative considered:** Folding this into H3 (contextual support) since both relate to "finding things"- rejected because centralising information and knowing who to ask are different problems with different solutions (a document index vs. a contact directory).
 
@@ -28,7 +28,7 @@ Each decision below explains why a hypothesis was kept, how it was formed, and w
 
 **What was decided:** Merge the original "contextual help / who to ask" hypothesis with the original "transparent AI support" hypothesis.
 
-**Why:** Both are fundamentally about the same need — getting a reliable answer at the moment of uncertainty, whether that answer comes from a person or an AI. P02 and P06 described not knowing who to ask; separately, all 6 participants required source citations and last-updated dates before trusting an AI answer, and all 6 also agreed AI should hand off to a human for HR, salary, disciplinary, and legal matters. Combining them reflects that "who/what can I trust for help" is one coherent experience, not two.
+**Why:** Both are fundamentally about the same need-getting a reliable answer at the moment of uncertainty, whether that answer comes from a person or an AI. P02 and P06 described not knowing who to ask; separately, all 6 participants required source citations and last-updated dates before trusting an AI answer, and all 6 also agreed AI should hand off to a human for HR, salary, disciplinary, and legal matters. Combining them reflects that "who/what can I trust for help" is one coherent experience, not two.
 
 **Alternative considered:** Dropping the AI-trust half entirely as out of scope — rejected because it was one of only two pain points with unanimous (6/6) support across interviews, too strong a signal to remove.
 
