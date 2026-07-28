@@ -1,10 +1,9 @@
-
 # Journey Map — Smart Onboarding (Current vs. Future)
 
-Based on `research/synthesis/pain-points.md` (6 interviews: P01, P02, P03, P05, P06, P07)
+Based on `research/synthesis/pain-points.md` (6 interviews: P01, P02, P03, P05, P06, P04)
 and mapped to `docs/hypotheses.md` (4 hypotheses).
 
-
+---
 
 ## Stage 1 — Pre-arrival / First contact
 
@@ -20,7 +19,7 @@ and mapped to `docs/hypotheses.md` (4 hypotheses).
 
 **Hypothesis addressed:** H1
 
-
+---
 
 ## Stage 2 — Day 1
 
@@ -38,7 +37,7 @@ and mapped to `docs/hypotheses.md` (4 hypotheses).
 
 **Hypotheses addressed:** H1, H3
 
-
+---
 
 ## Stage 3 — First week
 
@@ -47,7 +46,7 @@ and mapped to `docs/hypotheses.md` (4 hypotheses).
 - Multiple versions of the same document exist; unclear which is current
 - Uncertainty about who owns which process or who to ask
 
-**Pain points:** Generic/box-ticking training (P02, P06, P07); version confusion (P01, P03, P05, P06); unclear ownership (P01, P02, P06)
+**Pain points:** Generic/box-ticking training (P02, P06, P04); version confusion (P01, P03, P05, P06); unclear ownership (P01, P02, P06)
 
 **Future experience**
 - Role-specific content replaces generic modules where possible
@@ -56,7 +55,7 @@ and mapped to `docs/hypotheses.md` (4 hypotheses).
 
 **Hypotheses addressed:** H2, H3, H4
 
-
+---
 
 ## Stage 4 — First month
 
@@ -65,7 +64,7 @@ and mapped to `docs/hypotheses.md` (4 hypotheses).
 - Manager check-ins (where they happened) were the single most valued support
 - AI tools used for personal productivity, but not trusted for company-specific answers without a visible source
 
-**Pain points:** No visible next step (P03, P05, P06); manager check-ins valued (P02, P07); AI trust requires transparency (6/6 participants)
+**Pain points:** No visible next step (P03, P05, P06); manager check-ins valued (P02, P04); AI trust requires transparency (6/6 participants)
 
 **Future experience**
 - Ongoing progress tracker shows milestones through the first month, not just Day 1
@@ -74,5 +73,13 @@ and mapped to `docs/hypotheses.md` (4 hypotheses).
 
 **Hypotheses addressed:** H1, H3
 
+---
 
+## Summary table
 
+| Stage | Top pain points | Hypotheses addressed |
+|---|---|---|
+| Pre-arrival | Overwhelming first day, no prioritisation | H1 |
+| Day 1 | Overwhelming Day 1, scattered information | H1, H3 |
+| First week | Generic training, version confusion, unclear ownership | H2, H3, H4 |
+| First month | No visible next step, AI trust | H1, H3 |
