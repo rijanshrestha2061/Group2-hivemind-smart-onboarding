@@ -35,11 +35,4 @@ We believe that role-specific onboarding content will feel more useful than gene
 
 ---
 
-## Week 3 slice recommendation (updated)
 
-| Hypothesis | Feasibility | Build in Week 3 slice? |
-|---|---|---|
-| H1 — Guided first steps + progress | Low | ✅ Yes |
-| H2 — Centralised information hub | Medium–High | ❌ Figma only |
-| H3 — Trustworthy contextual support | Low–Medium (help) / Medium (AI) | ✅ Yes (help) / ⚠️ Stretch (AI mockup) |
-| H4 — Role-specific content | Medium–High | ⚠️ Mock only (1–2 static variants) |
