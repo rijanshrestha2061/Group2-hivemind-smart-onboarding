@@ -27,5 +27,3 @@ For Shubham to use when converting wireframes into high-fidelity screens.
 ## Icons
 Simple line icons (checkmarks, document, person, chat bubble) — consistent stroke weight across the whole app.
 
-## Status
-Draft — to be refined by Shubham once applied across the actual hi-fi screens in Figma.
