@@ -3,7 +3,7 @@
 ## Week 1
 
 ### Completed
-- Reviewed all 6 group interview transcripts (P01, P02, P03, P05, P06, P07) for technical feasibility — Technical/Feasibility Lead — 19 July 2026 — 1.5 hours
+- Reviewed all 6 group interview transcripts (P01, P02, P03, P05, P06, P04) for technical feasibility — Technical/Feasibility Lead — 19 July 2026 — 1.5 hours
 - Synthesised recurring pain-point themes across all transcripts, saved to `research/synthesis/research-synthesis.md` — Technical/Feasibility Lead — 19 July 2026 — 1 hour
 - Wrote group hypotheses grounded in interview evidence, saved to `docs/hypotheses.md` — Technical/Feasibility Lead — 19 July 2026 — 45 minutes
 - Drafted success metrics tied to each hypothesis, saved to `docs/success-metrics.md` — Technical/Feasibility Lead — 19 July 2026 — 30 minutes
@@ -32,7 +32,7 @@
 - Technical/Feasibility Lead — drafted starting-point IA structure for UX/IA Designer (`design/IA/IA-draft.md`), aligned to the 4 hypotheses and journey map — 22 July 2026
 - Technical/Feasibility Lead — drafted starting-point low-fidelity wireframes for UI/Prototype Developer (`design/wireframes/wireframes-draft.md`), 4 screens matching the 4 critical tasks — 22 July 2026
 - Technical/Feasibility Lead — drafted 4 critical user tasks tied to each hypothesis (`testing/tasks.md`) — 22 July 2026
-- Technical/Feasibility Lead — updated `docs/research-plan.md` with completed participant details (6 interviews, P01–P07 excluding P04) — 24 July 2026
+- Technical/Feasibility Lead — updated `docs/research-plan.md` with completed participant details (6 interviews, P01–P04 excluding P04) — 24 July 2026
 - Technical/Feasibility Lead — added placeholder `design/hi-fi/README.md` and project root `README.md`, since both were empty — 24 July 2026
 - UX/IA Designer — built and finalised the IA diagram in Figma (5 sections: My Onboarding, Learn & Grow, Information Hub, People & Support, AI Assistant), exported to `design/IA/` — 27 July 2026
 - Technical/Feasibility Lead — reviewed UX/IA Designer's IA against the 4 hypotheses for feasibility and traceability — 27 July 2026 — 20 minutes
@@ -64,4 +64,3 @@
 
 ### Next steps
 - Integrate the component into the group's actual Figma-to-code handoff or demo setup ahead of Week 4.
-
