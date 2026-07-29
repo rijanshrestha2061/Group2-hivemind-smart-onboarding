@@ -16,15 +16,8 @@
 - Flagged the centralised onboarding hub and role-specific content ideas as too complex for a code slice — recommended Figma-only or static-mock representation instead.
 - Flagged the AI trust/transparency idea as a stretch goal — a UI-only mockup (fake AI answer with source + last-updated date) is feasible without building real AI integration.
 
-### Blockers
-- None currently. Waiting on group's Week 2 IA/wireframes before the next feasibility pass.
 
-### Next steps
-- Share synthesis and updated hypotheses with the group so everyone works from the same evidence.
-- Upload `research-synthesis.md`, `hypotheses.md`, `success-metrics.md`, and `decisions.md` to the group GitHub repo in their correct folders.
-- Review Week 2 IA diagram and wireframes for technical feasibility once drafted.
 
----
 
 ## Week 2
 
@@ -36,23 +29,15 @@
 - Technical/Feasibility Lead — added placeholder `design/hi-fi/README.md` and project root `README.md`, since both were empty — 24 July 2026
 - UX/IA Designer — built and finalised the IA diagram in Figma (5 sections: My Onboarding, Learn & Grow, Information Hub, People & Support, AI Assistant), exported to `design/IA/` — 27 July 2026
 - Technical/Feasibility Lead — reviewed UX/IA Designer's IA against the 4 hypotheses for feasibility and traceability — 27 July 2026 — 20 minutes
-- _(UI/Prototype Developer — fill in: low-fidelity wireframes finalised in Figma, exported to `design/wireframes/`)_
-- _(UX Research & Validation Lead — fill in: reviewed pain-points/hypotheses documents, confirmed accuracy)_
-- _(Project Lead — fill in: ran Week 2 self-check before moving to Week 3)_
+- UI/Prototype Developer — confirmed all remaining 4 wireframes (smart reminders, support suggestion, role-based learning) rebuilt properly in Figma, completing all 6 low-fidelity screens — 29 July 2026
+- UX Research & Validation Lead — reviewed pain-points and hypotheses documents, confirmed accuracy against own read of the 6 interviews — 21 July 2026
+- Project Lead — ran the Week 2 self-check (IA reflects interview insights, tasks map to hypotheses, wireframes understandable without explanation, still low-fidelity, everything captured in GitHub) — confirmed ready to move to Week 3 — 28 July 2026
 
 ### Decisions
 - Drafts for IA, wireframes, and critical tasks were prepared ahead of schedule to give UX/IA Designer and UI/Prototype Developer a starting point — these are not final and still need to be rebuilt properly in Figma by the actual role owners.
 - Reviewed UX/IA Designer's finished IA: confirms to all 4 hypotheses, navigation stays shallow (2 levels, 5 top sections), each hypothesis clearly labelled on the diagram. One deviation from the original draft — H3 (trustworthy contextual support) was split into two separate top-level sections ("People & Support" and "AI Assistant") instead of one combined Help section. Approved as a reasonable restructure since AI Assistant has enough distinct content (source citations, escalation rules, safe-topics guide) to warrant its own space. No feasibility concerns raised.
 
-### Blockers
-- UI/Prototype Developer has not yet started building the real Figma wireframes — this is the one remaining Week 2 core deliverable.
 
-### Next steps
-- UI/Prototype Developer to build actual Figma wireframes, using the draft as a starting reference
-- Once wireframes exist, Technical/Feasibility Lead to review for technical feasibility
-- Confirm `testing/tasks.md` tasks are correct before Week 3 begins
-
----
 
 ## Week 3
 
