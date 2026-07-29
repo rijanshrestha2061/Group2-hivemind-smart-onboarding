@@ -1,12 +1,5 @@
 # Hypotheses — Smart Onboarding ( 4 hypotheses)
 
-**Consolidation logic:**
-- Original H1 (guided checklist) + H2 (progress visibility) → merged into **H1**, since both are about a structured, visible path through Day 1
-- Original H4 (contextual help) + H6 (transparent AI support) → merged into **H3**, since both are about getting trustworthy help exactly when it's needed
-- Original H3 (centralised hub) kept as **H2** — strongest single piece of evidence (6/6 participants)
-- Original H5 (role-specific content) kept as **H4**
-
----
 
 ## Hypothesis 1 — Guided, prioritised first steps with visible progress
 
