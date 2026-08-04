@@ -46,5 +46,4 @@ This being a Smart Onboarding system, the prototype includes at least 2 smart fe
 
 Both are drawn in `design/wireframes/` and included in the wider Figma prototype (not limited to the Day 1 code slice in `tech/`).
 
-## Status
-Research and hypothesis work complete. IA generalised across the full onboarding lifecycle. Wireframes include visual (not just text) screens for all critical tasks and both smart features. Hi-fi screens, full design system application, and the clickable prototype are in progress.
+
