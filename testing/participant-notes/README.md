@@ -1,8 +1,75 @@
-# Participant Notes
+# Participant Notes — Usability Testing
 
-This folder is for notes taken during each Week 4 usability testing session,
-using `testing/test-script.md`.
+Four external participants tested the HiveMind Smart Onboarding Figma prototype using the usability testing script provided in `testing/test-script.md`. None of the participants were members of the project group.
 
-**Status: empty-not due yet.** Real usability testing happens in Week 4,
-after the Figma prototype (`design/hi-fi/prototype-link.md`) is complete.
+---
 
+## T01 — Marketing
+
+**Task 1:** Succeeded within the expected time.
+**Task 2:** Succeeded in approximately 45 seconds.
+**Task 3:** Succeeded within the expected time.
+**Task 4:** Succeeded within the expected time.
+
+**Feedback:** The participant said they liked the prototype overall and found the flow easy to follow.
+
+---
+
+## T02 — Frontend Designer
+
+**Task 1:** Succeeded within the expected time.
+**Task 2:** Succeeded in approximately 45 seconds.
+**Task 3:** Succeeded within the expected time.
+**Task 4:** Succeeded within the expected time.
+
+**Feedback:** The participant responded positively to the prototype and liked the overall design and interaction flow.
+
+---
+
+## T03 — Office Worker
+
+**Task 1:** Succeeded within the expected time.
+**Task 2:** Succeeded in approximately 45 seconds.
+**Task 3:** Succeeded within the expected time.
+**Task 4:** Succeeded within the expected time.
+
+**Feedback:** The participant liked the prototype overall and was able to complete the tasks without reported difficulties.
+
+---
+
+## T04 — Receptionist
+
+**Task 1:** Succeeded within the expected time.
+**Task 2:** Succeeded in approximately 45 seconds.
+**Task 3:** Succeeded within the expected time.
+**Task 4:** Succeeded within the expected time.
+
+**Feedback:** The participant gave positive overall feedback and completed all four tasks successfully.
+
+---
+
+## Overall Testing Result
+
+All four participants successfully completed all four usability tasks. Task 2 took approximately 45 seconds for each participant, while the remaining tasks were completed within the expected time.
+
+The consistent task completion across different participant backgrounds suggests that the main prototype flow was understandable and usable. Participants also provided generally positive feedback about the overall prototype.
+
+However, the testing round has a limitation: the feedback was broadly positive but did not capture detailed comments about individual screens, specific usability problems, or differences between participants. Therefore, the results provide useful initial evidence of usability but should not be treated as comprehensive validation.
+
+---
+
+## Note on Data Quality
+
+The testing results were highly consistent across all four participants, with the same general outcome for each task and similar positive feedback. While this indicates that the prototype was successfully understood by the participants, the limited amount of task-specific qualitative feedback reduces the level of detail that can be drawn from the testing.
+
+A further usability testing round with more detailed questions and screen-specific feedback would provide stronger evidence and help identify smaller usability issues that may not have appeared during the initial sessions.
+
+---
+
+## Note — Prototype Updated After Testing
+
+The usability testing was conducted on the version of the HiveMind prototype available on **04 August 2026**. Following the testing and  review, the prototype was expanded to include **16 screens**, including additional confirmation and success states such as the **Task Completed**, **Request Submitted**, and **Notification** popups.
+
+These additional screens were introduced after the original participant testing and therefore were **not evaluated by the four participants**. They were added in response to findings from the heuristic review.
+
+If time allows, a short follow-up usability check focusing specifically on these newly added confirmation and notification states would strengthen the evidence and provide validation of the updated prototype.
