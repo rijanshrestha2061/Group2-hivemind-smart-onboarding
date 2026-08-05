@@ -1,5 +1,5 @@
 Interview Transcript
-
+ 
 Participant ID: P03
 Interview Type: Smart Onboarding Research Interview 
 Date: 08 July 2026
