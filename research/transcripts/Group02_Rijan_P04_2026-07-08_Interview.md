@@ -1,7 +1,7 @@
 Participant ID: P04
 Interview Type: Smart Onboarding Research Interview
 Date: 08 July 2026
-Duration: Approximately 30 minutes
+Duration: Approximately 30 minutes 
 
 [00:00] Interviewer: Hi, thank you for taking the time to speak with me today. I’m Rijan, a student at Ravensbourne University, and I’m currently working with HiveMind on a UX discovery project. We’re exploring how employees experience workplace onboarding and how they find the information they need during their first few weeks in a new organisation.
 
