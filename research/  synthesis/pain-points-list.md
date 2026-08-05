@@ -1,5 +1,5 @@
 # Pain Points — Smart Onboarding
-
+ 
 From 6 interviews: P01, P02, P03, P05, P06, P04. Mapped to the 4 hypotheses.
 
 1. Information is scattered across too many systems (Confluence, Teams, SharePoint, ServiceNow, email, wiki) with no single source of truth. — **H2**
