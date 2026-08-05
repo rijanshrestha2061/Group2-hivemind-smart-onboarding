@@ -1,4 +1,4 @@
-# Internal Testing Notes (Dry Run)
+# Internal Testing Notes (Dry Run) 
 
 Template for the Week 3 internal dry run (handbook section 38), before real usability testing with external participants in Week 4.
 
