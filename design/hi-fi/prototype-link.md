@@ -1,5 +1,5 @@
 
-# Figma Prototype Link
+# Figma Prototype Link 
 
 Figma prototype (clickable, presentation mode):
 https://www.figma.com/proto/6tLX80hdOD6b3YXR22zV7k/HiveMind-%E2%80%93-Smart-Onboarding--UI---Prototype?node-id=89-2&t=hLgkZeX6NBrntIsy-1&scaling=min-zoom&content-scaling=fixed&page-id=78%3A2&starting-point-node-id=89%3A2
