@@ -1,6 +1,6 @@
 INTERVIEW TRANSCRIPT 
 
-Participant ID: P01  
+Participant ID: P01   
 Interview Type: Smart Onboarding Research Interview  
 Date: 2/07/2026                                                                                                                                                                                                    
 Duration: 40 Minutes  
