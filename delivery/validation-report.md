@@ -1,6 +1,6 @@
 # Validation Report — Smart Onboarding 
 
-## Testing Overview
+## Testing Overview 
 Four external participants tested the HiveMind Smart Onboarding Figma
 prototype, using all four tasks defined in `testing/tasks.md` and the
 script in `testing/test-script.md`. None of the participants were members
