@@ -1,4 +1,4 @@
-# Research Plan — Smart Onboarding
+# Research Plan — Smart Onboarding 
 
 ## Project
 HiveMind × Ravensbourne — Smart Onboarding
