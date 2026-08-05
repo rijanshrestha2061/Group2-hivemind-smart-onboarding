@@ -1,7 +1,7 @@
 Participant ID: P06
 Interview Type: Smart Onboarding Research Interview
 Date: 03 July 2026
-Duration: Approximately 30 minutes
+Duration: Approximately 30 minutes 
 
 [00:00] Interviewer: Hi, thanks very much for joining me today. I’m Shubham, a student at Ravensbourne University, and I’m currently working with HiveMind on a UX discovery sprint. We’re looking at how people experience workplace onboarding and how they find information during their first few weeks in a new role.
 
