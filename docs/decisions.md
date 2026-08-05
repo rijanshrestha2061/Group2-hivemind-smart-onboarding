@@ -1,4 +1,4 @@
-# Decision Log — Update
+# Decision Log — Update 
 
 ## Decision: Reduced hypotheses from 6 to 4
 
