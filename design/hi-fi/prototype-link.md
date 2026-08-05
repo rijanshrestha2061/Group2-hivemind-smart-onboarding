@@ -6,7 +6,7 @@ https://www.figma.com/proto/6tLX80hdOD6b3YXR22zV7k/HiveMind-%E2%80%93-Smart-Onbo
 
 Last updated: 04 August 2026
 
-## Screens included (16 total)
+## Screens included (14 total)
 - [x] Dashboard (Home)
 - [x] Day 1 Checklist
 - [x] Task Details (with AI Assistant + source citation)
