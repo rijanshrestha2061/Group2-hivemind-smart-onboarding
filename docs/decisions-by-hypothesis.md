@@ -1,4 +1,4 @@
-# Decisions-Aligned to the 4 Hypotheses
+# Decisions-Aligned to the 4 Hypotheses 
 
 Each decision below explains why a hypothesis was kept, how it was formed, and what alternative was considered.
 
