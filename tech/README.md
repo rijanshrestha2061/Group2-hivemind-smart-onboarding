@@ -1,4 +1,4 @@
-# Technical Slice — Day 1 Onboarding
+# Technical Slice — Day 1 Onboarding 
 
 Optional React prototype slice, built by Bishal Basnet (Technical/Feasibility Lead), covering Hypothesis 1 and part of Hypothesis 3.
 
