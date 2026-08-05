@@ -1,4 +1,4 @@
-# Pain Point Synthesis — Smart Onboarding
+# Pain Point Synthesis — Smart Onboarding 
 
 Compiled from 6 interviews: P01 (UX/AI Designer), P02 (Software Designer), P03 (Project Leader), P05 (Business Analyst), P06 (IT Support Analyst), P04 (Marketing Coordinator).
 
