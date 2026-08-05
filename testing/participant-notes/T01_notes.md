@@ -1,4 +1,4 @@
-# Participant Notes — T01
+# Participant Notes — T01 
 
 **Role:** Marketing
 **Date:** 04 August 2026
