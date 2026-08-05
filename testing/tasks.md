@@ -1,7 +1,7 @@
 
 
 
-# Critical User Tasks-Smart Onboarding (Prioritised)
+# Critical User Tasks-Smart Onboarding (Prioritised) 
 
 
 ## Task 1-Use the AI assistant to find the correct onboarding document
