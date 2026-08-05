@@ -1,4 +1,4 @@
-# Participant Notes — T03
+# Participant Notes — T03 
 
 **Role:** Office Worker
 **Date:** 04 August 2026
