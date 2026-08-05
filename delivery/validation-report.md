@@ -1,4 +1,4 @@
-# Validation Report — Smart Onboarding  
+# Validation Report — Smart Onboarding   
 
 ## Testing Overview 
 Four external participants tested the HiveMind Smart Onboarding Figma
