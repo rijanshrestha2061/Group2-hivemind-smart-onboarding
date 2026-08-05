@@ -2,8 +2,7 @@
 # Figma Prototype Link
 
 Figma prototype (clickable, presentation mode):
-https://www.figma.com/proto/6tLX80hdOD6b3YXR22zV7k/HiveMind-%E2%80%93-Smart-Onboarding--UI---Prototype?node-id=78-2&t=9Apkgn2EdGfanArB-1
-
+https://www.figma.com/design/6tLX80hdOD6b3YXR22zV7k/HiveMind-%E2%80%93-Smart-Onboarding--UI---Prototype?node-id=78-2&t=1E23otpHwB2oDXTy-1
 Last updated: 04 August 2026
 
 ## Screens included (14 total)
