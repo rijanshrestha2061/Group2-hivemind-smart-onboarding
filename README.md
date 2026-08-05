@@ -1,4 +1,4 @@
-# Group 2 — HiveMind × Ravensbourne Smart Onboarding
+# Group 2 — HiveMind × Ravensbourne Smart Onboarding 
 
 A UX research and prototyping project exploring how to improve workplace onboarding, developed as part of a collaborative sprint between HiveMind and Ravensbourne University London.
 
