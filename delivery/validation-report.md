@@ -65,7 +65,7 @@ treated as comprehensive validation.
    questions and think-aloud observation, to capture individual variation
    and smaller usability issues that a general pass/fail summary cannot.
 3. **Validate the expanded prototype.** The prototype has since grown
-   from 6 to 16 screens, adding confirmation states (Task Completed,
+   from 6 to 14 screens, adding confirmation states (Task Completed,
    Request Submitted, Notification popup) introduced in response to the
    heuristic review. These additions were not covered by the testing
    above — a short follow-up check, even informal, would let the group
