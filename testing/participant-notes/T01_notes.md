@@ -21,6 +21,6 @@
 
 ## Feedback
 
-Said they liked the prototype overall. No specific detail captured.
+Said they liked the prototype overall. No specific detail captured and gave 4 of 5 rate.
 
 
