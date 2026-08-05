@@ -1,7 +1,7 @@
 # Mini Design System — Smart Onboarding
 
 For Shubham to use when converting wireframes into high-fidelity screens.
-
+ 
 ## Typography
 - Headings: Sans-serif, 18–22px, medium weight
 - Body text: 14–16px, regular weight
