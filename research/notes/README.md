@@ -1,4 +1,4 @@
-# Research Notes (raw, working)
+# Research Notes (raw, working) 
 
 This folder is for raw/working notes taken while reviewing the 6 transcripts —
 before they were cleaned up into the final synthesis.
