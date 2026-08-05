@@ -1,4 +1,4 @@
-Interview Transcript
+Interview Transcript 
 [00:00] Interviewer
 
 Thank you for joining me today. Before we get started, I'd like to let you know that this interview is part of a university research project with HiveMind. We're exploring how workplace onboarding can be improved and how new employees find information during their first few weeks.
