@@ -1,6 +1,5 @@
 # Success Metrics-Smart Onboarding ( 4 hypotheses)
 
-
 1. **Can a new starter identify their top 3 Day 1 priorities within the first minute, and tell at a glance what's done and what's next?**
    (Tests H1-addresses P02/P05/P06's "too much info, no priority" and P03/P06's "didn't know what's next")
 
