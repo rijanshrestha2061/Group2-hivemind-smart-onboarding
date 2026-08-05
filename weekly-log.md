@@ -1,6 +1,6 @@
 # Weekly Log
 
-## Week 1 
+## Week 1  
 
 ### Completed
 - Reviewed all 6 group interview transcripts (P01, P02, P03, P05, P06, P04) for technical feasibility — Technical/Feasibility Lead — 19 July 2026 — 1.5 hours
