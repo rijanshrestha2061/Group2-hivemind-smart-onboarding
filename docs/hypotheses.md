@@ -1,4 +1,4 @@
-# Hypotheses — Smart Onboarding ( 4 hypotheses)
+# Hypotheses — Smart Onboarding ( 4 hypotheses) 
 
 
 ## Hypothesis 1 — Guided, prioritised first steps with visible progress
